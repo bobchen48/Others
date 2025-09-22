@@ -5,7 +5,7 @@ Sometimes I wish I would make it easier on myself to just create a script that I
 This is my fun project to see what I can build out of my CTF toolkit
 
 ## Additional Online Tools ##
-1.[Cyberchef](https://gchq.github.io/CyberChef/): Swiss-knife Tool for Encoding/Decoding
+1. [Cyberchef](https://gchq.github.io/CyberChef/): Swiss-knife Tool for Encoding/Decoding
 2. [dcoder](https://www.dcode.fr/tools-list): Secondary tool to compliment Cyberchef 
 3. [Aperi'Solve](https://aperisolve.fr/): Online Steganography tool
 4. [DTMF](https://unframework.github.io/dtmf-detect/): Find DTMF tones within audio clips
